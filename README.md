@@ -1,0 +1,4 @@
+testeA
+======
+
+testando o compartilhamento
